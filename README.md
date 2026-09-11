@@ -17,3 +17,8 @@ All PNGs are at 2x their display size so they stay sharp on retina screens.
 
 **Do not rename or move these files.** The saved Outlook template points at these exact
 paths. Renaming one breaks every copy of the template already in use.
+
+## 2026-08-august/ (August 2026 monthly mailer, sent from Outlook)
+
+Hero, three card images, white logo, five byline avatars and two footer icons for the
+August 2026 "The Ecentric Edit" mailer. Same rule: do not rename or move.
